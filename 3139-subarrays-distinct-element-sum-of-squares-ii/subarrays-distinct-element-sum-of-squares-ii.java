@@ -1,5 +1,3 @@
-
-import java.util.*;
 class Solution {
     static final long MOD=1000000007L;
     long[] sum,sumSq,lazy;
